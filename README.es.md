@@ -46,7 +46,6 @@ La ASRPRO reconoce las frases aprendidas localmente. El ESP32 recibe mensajes co
 
 - [ASRPRO-01](https://es.aliexpress.com/item/1005012990097981.html).
 - [Kit emisor/receptor de 433 MHz comprado para este proyecto](https://es.aliexpress.com/item/1005003436580019.html).
-- [Anuncio RF aportado inicialmente](https://es.aliexpress.com/item/1005003657104056.html): referencia adicional, no el kit confirmado como comprado.
 
 Se han eliminado parámetros de seguimiento. Comprueba variantes, serigrafía y tensiones: los vendedores pueden cambiar sus anuncios. El propietario confirma que su kit es de **433 MHz** y funcionó con **EN sin conectar** en el emisor. No implica que todos los módulos parecidos se comporten igual. RX470C-V01 era la referencia del receptor comentada durante el desarrollo; no identifiques el emisor por el modelo del receptor.
 
