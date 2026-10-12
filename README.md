@@ -46,7 +46,6 @@ The ASRPRO recognizes learned phrases locally. The main ESP32 receives short tex
 
 - [ASRPRO-01](https://es.aliexpress.com/item/1005012990097981.html).
 - [433 MHz transmitter/receiver kit actually purchased for this project](https://es.aliexpress.com/item/1005003436580019.html).
-- [Earlier RF listing supplied by the project owner](https://es.aliexpress.com/item/1005003657104056.html): reference only, not the confirmed purchased kit.
 
 Tracking parameters have been removed. Check selected variants, pin labels and voltage ratings; sellers can change their listings. The owner confirmed the purchased kit is **433 MHz** and its transmitter worked with **EN left unconnected**. This does not establish EN behavior for every similar-looking module. RX470C-V01 was the receiver marking discussed during development; do not identify the transmitter from the receiver's model name.
 
