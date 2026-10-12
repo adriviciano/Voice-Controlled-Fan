@@ -1,0 +1,9 @@
+{
+  "commands": [
+    { "id": 1, "phrase": "Ventilador", "message": "FAN", "action": "" },
+    { "id": 2, "phrase": "Luz", "message": "LIGHT", "action": "" },
+    { "id": 3, "phrase": "Maximo", "message": "MAX", "action": "" },
+    { "id": 4, "phrase": "Minimo", "message": "MIN", "action": "" },
+    { "id": 5, "phrase": "Apagar", "message": "OFF", "action": "" }
+  ]
+}
